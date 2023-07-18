@@ -33,6 +33,7 @@ import redux1 from './redux.png'
 import node from './node.png'
 
 export {
+  jrnd,
   node,
   redux1,
   react1,
@@ -58,10 +59,6 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
   carrent,
   jobit,
   tripguide,
