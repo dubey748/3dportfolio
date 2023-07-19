@@ -119,6 +119,7 @@ import {
         "Additionally, I collaborated closely with the QA team to identify and address any reported bugs or issues, ensuring high-quality deliverables"
       ],
     },
+    
   ];
   
   const testimonials = [
