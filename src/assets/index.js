@@ -29,10 +29,16 @@ import jrnd from "./company/jrnd.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-import redux1 from './redux.png'
-import node from './node.png'
+import redux1 from './redux.png';
+import node from './node.png';
+import taste from './taste.png';
+import gym from './gym.png';
+import booking from './booking.png'
 
 export {
+  taste,
+  gym,
+  booking,
   jrnd,
   node,
   redux1,
