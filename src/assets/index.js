@@ -24,7 +24,7 @@ import javascript1 from './javascript.png'
 import react1 from './react1.png'
 
 import jrnd from "./company/jrnd.png";
-
+import admin from "./admin.png"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -36,6 +36,7 @@ import gym from './gym.png';
 import booking from './booking.png'
 
 export {
+  admin,
   taste,
   gym,
   booking,

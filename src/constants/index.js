@@ -1,4 +1,5 @@
 import {
+  admin,
   taste,
   gym,
   booking,
@@ -212,7 +213,7 @@ const projects = [
     source_code_link: "https://github.com/dubey748/BetaPro.git",
   },
   {
-    name: "Booking App",
+    name: "Admin Panel",
     description:
       "I have created an admin panel using React.js that allows users to track details.",
     tags: [
@@ -229,7 +230,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: booking,
+    image: admin,
     source_code_link: "https://admin-69tc.onrender.com/",
   },
 ];
