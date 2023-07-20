@@ -211,6 +211,27 @@ const projects = [
     image: booking,
     source_code_link: "https://github.com/dubey748/BetaPro.git",
   },
+  {
+    name: "Booking App",
+    description:
+      "I have created an admin panel using React.js that allows users to track details.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "bootstrap",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: booking,
+    source_code_link: "https://admin-69tc.onrender.com/",
+  },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
