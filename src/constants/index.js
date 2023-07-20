@@ -231,7 +231,7 @@ const projects = [
       },
     ],
     image: admin,
-    source_code_link: "https://admin-69tc.onrender.com/",
+    source_code_link: "https://aadminpanel.onrender.com/",
   },
 ];
 
