@@ -33,9 +33,11 @@ import redux1 from './redux.png';
 import node from './node.png';
 import taste from './taste.png';
 import gym from './gym.png';
-import booking from './booking.png'
+import booking from './booking.png';
+import abprime from './abprime.png'
 
 export {
+  abprime,
   admin,
   taste,
   gym,

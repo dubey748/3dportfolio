@@ -1,4 +1,5 @@
 import {
+  abprime,
   admin,
   taste,
   gym,
@@ -171,6 +172,48 @@ const projects = [
     source_code_link: "https://tasteapp.onrender.com/",
   },
   {
+    name: "Abprime",
+    description:
+      "AbPrime utilizes a powerful API from Rapid API to curate video recommendations based on user preferences, search history, and interactions, ensuring a customized video feed for each user.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "mui",
+        color: "green-text-gradient",
+      },
+      {
+        name: "rapid api",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: abprime,
+    source_code_link: "https://abprime.onrender.com/",
+  },
+  {
+    name: "Admin Panel",
+    description:
+      "I have created an admin panel using React.js that allows users to track details.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "bootstrap",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: admin,
+    source_code_link: "https://aadminpanel.onrender.com/",
+  },
+  {
     name: "Gym",
     description:
       "This gym app include features like exercise library, where users can browse and search for specific exercises, view instructional gif, and access related workout exercises and also can search exercise by body parts.",
@@ -211,27 +254,6 @@ const projects = [
     ],
     image: booking,
     source_code_link: "https://github.com/dubey748/BetaPro.git",
-  },
-  {
-    name: "Admin Panel",
-    description:
-      "I have created an admin panel using React.js that allows users to track details.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "bootstrap",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: admin,
-    source_code_link: "https://aadminpanel.onrender.com/",
   },
 ];
 
