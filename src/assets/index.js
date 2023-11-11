@@ -24,6 +24,7 @@ import javascript1 from './javascript.png'
 import react1 from './react1.png'
 
 import jrnd from "./company/jrnd.png";
+import mphasis from './company/mphasis.png'
 import admin from "./admin.png"
 
 import carrent from "./carrent.png";
@@ -37,6 +38,7 @@ import booking from './booking.png';
 import abprime from './abprime.png'
 
 export {
+  mphasis,
   abprime,
   admin,
   taste,

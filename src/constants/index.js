@@ -29,6 +29,7 @@ import {
   jobit,
   tripguide,
   threejs,
+  mphasis
 } from "../assets";
 
 export const navLinks = [
@@ -106,14 +107,33 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Delv Software Engineer",
+    company_name: "Mphasis",
+    icon: mphasis,
+    iconBg: "#383E56",
+    date: "October 2023 - Present",
+    points: [
+      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Playing a key role in code reviews, offering constructive feedback to maintain codebase integrity and elevate overall development standards",
+      "Providing mentorship to junior developers, fostering a collaborative learning environment and ensuring the team's proficiency in frontend technologies.",
+      "Demonstrating expertise in problem-solving and debugging, ensuring the stability and performance of web applications.",
+      "Implementing state management with Redux, optimizing data flow and maintaining a scalable and efficient codebase for complex applications",
+      "Contributing to the evolution of the user interface through the integration of Material-UI, ensuring a cohesive and visually appealing design language.",
+      "Led the migration of legacy codebases to modern React.js standards, improving maintainability and paving the way for future enhancements.",
+
+    ],
+  },
+  {
     title: "Frontend Engineer",
     company_name: "Java R&D Pvt Ltd",
     icon: jrnd,
     iconBg: "#383E56",
-    date: "October 2020 - Present",
+    date: "October 2020 - October 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Developing and maintaining web applications using React.js and other related technologies",
+      "Successfully implemented responsive designs and cross-browser compatibility, enhancing user interfaces for optimal user experience.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
       "Actively participated in daily stand-ups and sprint planning to deliver features and enhancements on time",
