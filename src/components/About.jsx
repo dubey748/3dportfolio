@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4  text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a skilled frontend engineer with 2+ years of experience specializing
+        I'm a skilled frontend engineer with 3+ years of experience specializing
         in React JS development. I have a passion for crafting elegant,
         user-friendly web applications that deliver exceptional user
         experiences. With a strong foundation in React, Redux, and related

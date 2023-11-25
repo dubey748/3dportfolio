@@ -80,7 +80,7 @@ const Contact = () => {
         <form
           ref={formRef}
           onSubmit={handleSubmit}
-          className='mt-12 flex flex-col gap-8 '
+          className='mt-12  flex flex-col gap-8 '
           
         >
           <label className='flex flex-col'>
@@ -89,7 +89,7 @@ const Contact = () => {
               type='text'
               name='name'
               value={form.name}
-              onChange={handleChange}
+              onChange={handleChange}  
               placeholder="What's your good name?"
               className='bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium'
             />
