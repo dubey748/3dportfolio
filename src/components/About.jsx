@@ -9,7 +9,7 @@ import { fadeIn, textVariant } from "../utils/motion";
 
 const ServiceCard = ({ index, title, icon }) => (
   <Tilt className="xs:w-[250px] w-full">
-    <motion.div
+    <div
       variants={fadeIn("right", "spring", index * 0.5, 0.75)}
       className="w-full green-pink-gradient p-[1px] rounded-[20px] shadow-card"
     >
@@ -17,7 +17,7 @@ const ServiceCard = ({ index, title, icon }) => (
         options={{
           max: 45,
           scale: 1,
-          speed: 2000,
+          speed: 1000,
         }}
         className="bg-tertiary rounded-[20px] py-5 px-12 min-h-[280px] flex justify-evenly items-center flex-col"
       >
@@ -31,19 +31,19 @@ const ServiceCard = ({ index, title, icon }) => (
           {title}
         </h3>
       </div>
-    </motion.div>
+    </div>
   </Tilt>
 );
 
 const About = () => {
   return (
     <>
-      <motion.div variants={textVariant()}>
+      <div variants={textVariant()}>
         <p className={styles.sectionSubText}>Introduction</p>
         <h2 className={styles.sectionHeadText}>Overview.</h2>
-      </motion.div>
+      </div>
 
-      <motion.p
+      <p
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4  text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
@@ -54,7 +54,7 @@ const About = () => {
         technologies, I excel in building modern, responsive, and scalable
         interfaces. My expertise extends to integrating APIs and third-party
         services to seamlessly fetch and display data from the backend.
-      </motion.p>
+      </p>
 
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index) => (
