@@ -149,7 +149,7 @@ const testimonials = [
     name: "Himanshi Satpute",
     designation: "Junior Software Engineer",
     company: "CloudEQ",
-    image: "https://shorturl.at/cOWY8",
+    image: "https://media.licdn.com/dms/image/C4E03AQG9YNjvyEI8yg/profile-displayphoto-shrink_800_800/0/1631693586363?e=1706140800&v=beta&t=9cacn_j4cLVd8BaYjDv3bbWPcu6H1qAuPdtPuw86a68",
   },
   {
     testimonial:
@@ -157,7 +157,7 @@ const testimonials = [
     name: "Harshit Bhadoria",
     designation: "Associate Consultant",
     company: "KPMG",
-    image: "https://shorturl.at/kBO68",
+    image: "https://media.licdn.com/dms/image/D5603AQETYQIkouaMIA/profile-displayphoto-shrink_800_800/0/1686848022529?e=1706140800&v=beta&t=90sniJf_ylIJQVVPVK6LmqDvrtc_JxFkNZXsNc8O2j0",
   },
   {
     testimonial:
@@ -165,7 +165,7 @@ const testimonials = [
     name: "Manas Srivastava",
     designation: "Analyst",
     company: "KPMG",
-    image: "https://shorturl.at/ntBS8",
+    image: "https://media.licdn.com/dms/image/D5603AQEuqF-3csNHNQ/profile-displayphoto-shrink_800_800/0/1694452355518?e=1706140800&v=beta&t=BgxNAAnf2b516YR7QoFkEM73bYirgqmyt6HMmVNbYxw",
   },
 ];
 
