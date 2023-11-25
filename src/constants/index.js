@@ -115,7 +115,6 @@ const experiences = [
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
       "Playing a key role in code reviews, offering constructive feedback to maintain codebase integrity and elevate overall development standards",
       "Providing mentorship to junior developers, fostering a collaborative learning environment and ensuring the team's proficiency in frontend technologies.",
       "Demonstrating expertise in problem-solving and debugging, ensuring the stability and performance of web applications.",
@@ -132,7 +131,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "October 2020 - October 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies",
+      "I actively contributed to the development and enhancement of two notable client projects—MGM Resort and Florida Blue. Within these engagements, I had the opportunity to showcase my technical prowess by leveraging a diverse set of skills. This included proficiency in  JavaScript, frameworks like React JS, and tools like Git and Jira, as well as the application of best practices in software development. My role involved hands-on work on critical aspects of the projects, where I applied my expertise in areas such as front-end and back-end development, ensuring the delivery of high-quality and performant solutions. Through these experiences, I demonstrated the ability to address complex technical challenges and deliver impactful results within the context of client-specific requirements and industry standards.",
       "Successfully implemented responsive designs and cross-browser compatibility, enhancing user interfaces for optimal user experience.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
