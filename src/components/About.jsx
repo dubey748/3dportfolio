@@ -17,7 +17,7 @@ const ServiceCard = ({ index, title, icon }) => (
         options={{
           max: 45,
           scale: 1,
-          speed: 450,
+          speed: 2000,
         }}
         className="bg-tertiary rounded-[20px] py-5 px-12 min-h-[280px] flex justify-evenly items-center flex-col"
       >
@@ -45,7 +45,7 @@ const About = () => {
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
-        className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
+        className="mt-4  text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
         I'm a skilled frontend engineer with 2+ years of experience specializing
         in React JS development. I have a passion for crafting elegant,
